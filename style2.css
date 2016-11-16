@@ -2,15 +2,15 @@ body {
 	font-family: Arial; 
 	position: relative; 
 	font-size: 14px;
-    background: rgba(0, 201, 255, 0.23);
-    width: 90%;
-    margin: auto;
+    	background: rgba(0, 201, 255, 0.23);
+    	width: 90%;
+    	margin: auto;
 }
 
 ul{ 
 	margin-bottom: 10px;
 	list-style: square;
-    border: 2px solid #ffffaf;
+    	border: 2px solid #ffffaf;
 }
 
 li { 
