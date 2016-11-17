@@ -35,3 +35,21 @@ p::first-letter {
 }
 
 p::first-line { background-color: lightgreen; }
+
+.extreme { 
+    text-shadow: 3px 3px #978686; 
+    font-weight: bold;
+}
+#head1 { letter-spacing: 8px; }
+
+.navzone {
+    width: 20%;
+    margin-left: 2%;
+}
+#tehlulz {
+    color: tomato;
+    list-style: decimal;
+}
+
+.content { text-transform: lowercase; }
+.prose { text-indent: 5%; }

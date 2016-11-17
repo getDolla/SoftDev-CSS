@@ -40,3 +40,18 @@ p::first-letter {
 }
 
 p::first-line { background-color: lightsalmon; }
+
+.extreme { text-shadow: 2px 2px #9f9797; }
+#head1 { letter-spacing: 4px; }
+
+.navzone {
+    width: 30%;
+    margin-left: 2%;
+}
+#tehlulz {
+    color: fuchsia;
+    list-style: square;
+}
+
+.content { text-transform: capitalize; }
+.prose { text-indent: 40px; }
