@@ -6,8 +6,8 @@ body {
 	margin: 0 auto;
 	font-size: 12px; 
 	font-family: verdana;
-    width: 80%;
-    background: linear-gradient(120deg, #20e2d5 0%, #24aebd 50%, #228db5 75%);
+    	width: 80%;
+    	background: linear-gradient(120deg, #20e2d5 0%, #24aebd 50%, #228db5 75%);
 }
 
 nav { 
@@ -27,7 +27,7 @@ nav li {
 	list-style-type: none;
 	width: 30em;
 	float: left;
-    text-align: center;
+   	text-align: center;
 }
 
 nav a:hover { 
@@ -38,10 +38,10 @@ nav a:hover {
 h1, h2, footer { text-align: center; }
 
 section {
-    padding: 8px;
-    margin-bottom: 40px;
-    text-indent: 60px;
-    border: 2px solid #50c94f;
+    	padding: 8px;
+    	margin-bottom: 40px;
+    	text-indent: 60px;
+    	border: 2px solid #50c94f;
 	border-radius: 10px;
 }
 section::first-letter { 
